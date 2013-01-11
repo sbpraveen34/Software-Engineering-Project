@@ -1,0 +1,56 @@
+scientist hostel/495/365
+defence lab/458/343
+jodhpur airport/469/491
+military hospiatl/443/117
+kendriya/468/110
+bzs school/480/30
+paota school/425/63
+jodhpur crossing/363/487
+polo ground/350/386
+dte/304/367
+mbm/334/334
+ncc/313/315
+karnlbagh colony/260/291
+sps school/194/290
+ins of hotel management/195/367
+polytechnic college/205/380
+mahila poly college/220/450
+jnvu pg girls hostel/222/483
+station/146/515
+new power house/100/457
+indra vihar/143/432
+patrakar colony/146/403
+snmc girls hostel/100/384
+shastri nagar/96/345
+rajasthan udyog/45/437
+adarsh society/75/422
+pauls school/45/397
+brij park/33/334
+medical college/89/322
+stadium/23/289
+nehru park/137/257
+gandhi maidan/102/238
+central jail/252/213
+motilal buildings/292/190
+ajit colony/378/186
+circuit house/370/159
+rani ka bagh/378/109
+paota satellite hos/369/76
+high court/342/98
+football statdium/285/115
+univ of jodhpur/289/154
+motilal buildings/293/189
+shanti bhavan/225/176
+ghantaghar/230/74
+fateh sagar/272/48
+gulab sagar/233/48
+baiji ka talab/183/147
+mgh/183/188
+umaid hospital/109/171
+mahesh school/94/161
+sakina colony/57/177
+upkeshwari tempel/88/79
+ganesh temple/105/85
+mehrangarh fort/184/47
+raanisar talaab/177/25
+rly stadium/195/265
